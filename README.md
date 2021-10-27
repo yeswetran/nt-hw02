@@ -2,7 +2,7 @@
  
 ## 2015 LA Polling Places, categorized by host
 
-![Figure 1](2015 Polling Places.png)
+![Figure 1](https://github.com/yeswetran/nt-hw02/blob/main/2015%20Polling%20Places.png)
 
 _Data sourced from [data.gov](https://catalog.data.gov/dataset/election-2017-may-general-polling-place-list)._
 
@@ -10,7 +10,7 @@ According to this pie chart, 60.4% of LA polling places were located at schools,
 
 ## 2017 LA Polling Places, categorized by host
 
-![Figure 2](2017 Polling Places.png)
+![Figure 2](https://github.com/yeswetran/nt-hw02/blob/main/2017%20Polling%20Places.png)
 
 _Data sourced from [data.gov](https://catalog.data.gov/dataset/election-2017-may-general-polling-place-list)._
 

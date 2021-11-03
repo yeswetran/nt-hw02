@@ -4,7 +4,7 @@
 
 ![Figure 1](https://github.com/yeswetran/nt-hw02/blob/main/2015%20Polling%20Places.png)
 
-_Data sourced from [data.gov](https://catalog.data.gov/dataset/election-2017-may-general-polling-place-list)._
+_Data sourced from [data.gov](https://catalog.data.gov/dataset/election-2015-may-general-polling-place-list)._
 
 According to this pie chart, 60.4% of LA polling places were located at schools, 29.1% were located at churches, 8.3% were located at fire stations, and 2.3% were located at clubs (such as Rotary Club chapters and neighborhood clubhouses). I can improve my analysis by factoring in other keywords. For instance, churches are often named "Christian Centers," while the "club" keyword does not account for Elks Lodges and other groups.
 
